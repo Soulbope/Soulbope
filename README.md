@@ -5,6 +5,7 @@
   <img  height="180em" src="https://github-readme-git-masterrstaa-rickstaa.vercel.app/api?username=Soulbope&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soulbope&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+
 <br>
 
 <div  align="center"> 
@@ -15,25 +16,23 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
+    <img align="right" alt="Soulbope-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1062485378902282326/1063136137889194064/64621f41-e9c5-4dae-beba-c0d9a3e26295-profile_image-300x300-removebg-preview.png">
+</div>
+   </div></br></br></br>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: wagner_psb@yahoo.com.br">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/wagner-oliveira-soulbope/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UC3IrWA1vfh7iwqJ02oIS3iw">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/wagnermonstro51/">
-      <img width="25" src="instagram.png">
-    </a>
+<div> 
+  <a href="https://www.youtube.com/channel/UC3IrWA1vfh7iwqJ02oIS3iw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/wagnermonstro51" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/soulbopex" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/JDe9d7EA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:wagner_psb@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wagner-oliveira-soulbope" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 </div>
   
 ![Snake animation](https://github.com/Soulbope/Soulbope/blob/output/github-contribution-grid-snake.svg)
