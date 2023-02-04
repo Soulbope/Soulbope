@@ -12,10 +12,15 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align="right" alt="Soulbope-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1062485378902282326/1063136137889194064/64621f41-e9c5-4dae-beba-c0d9a3e26295-profile_image-300x300-removebg-preview.png">
 </div>
    </div></br></br></br>
+   
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soulbope&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soulbope&layout=compact&langs_count=7&theme=merko"/>
+</a>
+<br/><br/> 
     
   
 <div> 
