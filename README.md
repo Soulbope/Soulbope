@@ -17,8 +17,8 @@
    </div></br></br></br>
    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Soulbope&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soulbope&layout=compact&langs_count=7&theme=merko"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Soulbope&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soulbope&layout=compact&langs_count=1&theme=merko"/>
 </a>
 <br/><br/> 
     
