@@ -6,13 +6,9 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="right" alt="Soulbope-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1062485378902282326/1063136137889194064/64621f41-e9c5-4dae-beba-c0d9a3e26295-profile_image-300x300-removebg-preview.png">
+    <img align="right" alt="Soulbope-pic" height="150" style="border-radius:50;" src="https://cdn.discordapp.com/attachments/1062485378902282326/1063136137889194064/64621f41-e9c5-4dae-beba-c0d9a3e26295-profile_image-300x300-removebg-preview.png">
 </div>
    </div></br></br></br>
    
