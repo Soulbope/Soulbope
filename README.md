@@ -8,8 +8,6 @@
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Soulbope-pic" height="150" style="border-radius:50;" src="![icosoul](https://github.com/Soulbope/Soulbope/assets/102233091/711a32e5-94da-485c-8857-7950cd27bcb7)
-">
 </div>
    </div></br></br></br>
    
